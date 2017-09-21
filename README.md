@@ -1,5 +1,4 @@
 # National-Parks
-websites about national parks
 https://www.nps.gov/findapark/index.htm
 https://www.nps.gov/yell/index.htm
 https://www.thecanyon.com/grand-canyon-national-park
